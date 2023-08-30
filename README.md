@@ -6,8 +6,8 @@ Built with Python
 
 # Get tasks
 
-- [ ] `todoist-cli get`
+- [x] `todoist-cli get`
 
 # Complete Tasks
 
-- [ ] `todoist-cli complete {task-name}`
+- [x] `todoist-cli complete {task-name}`
